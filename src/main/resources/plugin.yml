@@ -1,0 +1,11 @@
+name: Healer
+version: ${project.version}
+main: com.xenfo.healer.Main
+api-version: 1.13
+authors: [Xenfo, SupremeCoder101]
+description: Heal yourself.
+
+commands:
+  healer:
+    usage: /healer
+    description: Heals you
